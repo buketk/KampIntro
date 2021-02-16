@@ -16,7 +16,7 @@ namespace DegerVeReferansTipler
 
             Console.WriteLine(sayi1);
             //sayi1 = 30
-            //int decimal float double bool ==== DEğer Tip
+            //int decimal float double bool ==== Değer Tip
             //Verinin değeri atanır. Stack'te işlem yapılır
 
 
